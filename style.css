@@ -1,0 +1,54 @@
+.letters {
+    display:inline-flex;
+    margin:0px;
+    font-size: 180px;
+    color: black;
+}
+#space {
+    color: black;
+}
+body {
+    text-align: center;
+}
+#reset_button {
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    font-size: large;
+    background-image:url("Rainbow.jpg");
+    background-size: cover;
+}
+#open_image {
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+    font-size: large;
+    background-image:url("Rainbow.jpg");
+    background-size: cover;
+}
+#close_image {
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+    font-size: large;
+    background-image:url("Rainbow.jpg");
+    background-size: cover;
+    display: none;
+}
+#img1 {
+    display: none;
+}
+#p1 {
+    display: none;
+    width: 270px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+#container {
+    text-align: center;
+}
+body {
+    color: white;
+    background-color: black;
+}
